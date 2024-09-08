@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/loaialsharee/microservices-orders-api-with-golang/application"
+	"github.com/loaialsharee/orders-api-with-golang/application"
 )
 
 func main() {

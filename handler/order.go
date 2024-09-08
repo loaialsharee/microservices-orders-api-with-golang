@@ -11,8 +11,8 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/google/uuid"
-	"github.com/loaialsharee/microservices-orders-api-with-golang/model"
-	"github.com/loaialsharee/microservices-orders-api-with-golang/repository/order"
+	"github.com/loaialsharee/orders-api-with-golang/model"
+	"github.com/loaialsharee/orders-api-with-golang/repository/order"
 )
 
 type Order struct {

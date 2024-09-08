@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/chi/v5"
-	"github.com/loaialsharee/microservices-orders-api-with-golang/handler"
-	"github.com/loaialsharee/microservices-orders-api-with-golang/repository/order"
+	"github.com/loaialsharee/orders-api-with-golang/handler"
+	"github.com/loaialsharee/orders-api-with-golang/repository/order"
 )
 
 func (a *App) loadRoutes() {
